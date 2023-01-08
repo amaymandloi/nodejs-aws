@@ -1,0 +1,17 @@
+child to parent -> emitter
+parent to child -> props
+lazy loading routes, normal routes
+gender ->one should be selected
+localstorage array of objects
+addbook list books
+lifecycle created data ,methods event binding
+computed: watch -> continuous reloading ,slow performance,not preferred
+mounted
+conditional rendering
+props
+addnew book -button -component(child)
+table list - component parent
+clone objects
+shallow and deep copy ->implement
+
+:disabled="errorMessages.length>0"
